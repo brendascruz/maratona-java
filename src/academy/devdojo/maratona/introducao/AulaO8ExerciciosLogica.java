@@ -1,7 +1,6 @@
 package academy.devdojo.maratona.introducao;
-import java.util.Scanner;
 
-public class AulaO8ArraysMultidimencionaisEx {
+public class AulaO8ExerciciosLogica {
     public static void main(String[] args) {
 //        Sistema de imposto progressivo
 //        double salario = 70000;
@@ -156,6 +155,7 @@ public class AulaO8ArraysMultidimencionaisEx {
 //        }
 //        System.out.println(qtdAnos+" anos até o país A ultrapassar o país B");
 
+//        Mini Sistema de Banco
 //        Scanner input = new Scanner(System.in);
 //        double saldo = 1000;
 //        int escolha = 0;
