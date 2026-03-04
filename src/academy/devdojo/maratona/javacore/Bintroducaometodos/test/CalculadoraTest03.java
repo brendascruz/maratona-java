@@ -7,5 +7,6 @@ public class CalculadoraTest03 {
         Calculadora calculadora = new Calculadora();
         double divisao = calculadora.dividirDoisNumeros(0, 4);
         System.out.println(divisao);
+        calculadora.dividirDoisNumeros02(10, 0);
     }
 }
